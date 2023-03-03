@@ -1,6 +1,6 @@
 # simple-firebase-gradle-gson
 
-This is a simple firebase util (gradle, gson)
+This is a simple firebase util (java, gradle, gson)
 
 ## Features
 
